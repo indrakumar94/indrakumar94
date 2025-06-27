@@ -22,7 +22,7 @@ I'm building a portfolio of real-world, production-ready AI/ML systems using MLO
 
 ---
 
-### 3. 🤖 [LangGraph-powered RAG Chatbot](https://github.com/your-username/rag-chatbot)
+### 3. 🤖 [LangGraph-powered Agentic RAG](https://github.com/indrakumar94/rag-langgraph-agenticai)
 > Chatbot with memory + vector search + LangGraph orchestration
 - 📄 Handles large PDF ingestion (~1000 pages)
 - 🧠 Uses Azure OpenAI + ChromaDB + Redis for memory
