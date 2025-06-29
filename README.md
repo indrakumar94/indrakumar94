@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Indra Kumar — Aspiring AI System Architect
+# 👋 Hi, I'm Indra Kumar — AI System Architect
 
 I'm building a portfolio of real-world, production-ready AI/ML systems using MLOps, cloud, model training and LLM orchestration tools.
 
