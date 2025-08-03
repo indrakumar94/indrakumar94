@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Indra Kumar — AI/ML System Design Architect
+# 👋 Hi, I'm Indra Kumar — AI Engineering Architect
 
-I'm building a portfolio of real-world, production-ready AI/ML systems using Agentic AI, MLOps, cloud, model-serving and LLM orchestration tools.
+I'm building a portfolio of real-world, production-ready AI/ML systems using Agentic AI orchestration, LLMOPs best practices and LLM tuning and optimization.
 
 ---
 
