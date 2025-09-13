@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Indra Kumar — AI Engineering Architect
+# 👋 Hi, I'm Indra Kumar — AI Engineering & Strategy
 
 I'm building a portfolio of real-world, production-ready AI/ML systems using Agentic AI orchestration, LLMOPs best practices and LLM tuning and optimization.
 
